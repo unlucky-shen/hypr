@@ -1,5 +1,7 @@
 # hypr
 
+![Preview](view.png)
+
 My hyprland config, with vague-theme colorscheme
 
 ### NVIDIA GPU Tweaks 
