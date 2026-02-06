@@ -2,7 +2,10 @@
 
 My hyprland config, with vague-theme colorscheme
 
-### If on NVIDIA GPUs, add the below to the top for `hyprland.conf`,
+### NVIDIA GPU Tweaks 
+
+Add the below code to the very top of `hyprland.conf`,
+
 ```
 env = LIBVA_DRIVER_NAME,nvidia
 env = __GLX_VENDOR_LIBRARY_NAME,nvidia
