@@ -25,3 +25,4 @@ cursor {
 - [ ] Change wofi to rofi-wayland
 - [ ] Change waybar to quickshel
 - [ ] Configure Fastfetch
+- [ ] Change to "Brutalist" aesthetic 
