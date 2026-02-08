@@ -19,7 +19,7 @@ $line_break\
 $character"""
 
 add_newline = true
-palette = 'vague'
+palette = 'zenbones'
 
 [directory]
 style = 'bold blue'
@@ -29,8 +29,8 @@ truncation_symbol = '…/'
 truncate_to_repo = false
 
 [character]
-success_symbol = '[❯](bold purple)'
-error_symbol = '[❯](bold red)'
+success_symbol = '[ ](bold purple)'
+error_symbol = '[ ](bold red)'
 
 [directory.substitutions]
 'Documents' = '󰈙'
@@ -131,3 +131,16 @@ yellow    = '#f3be7c'
 gray      = '#606079'
 white     = '#cdcdcd'
 black     = '#141415'
+
+[palettes.zenbones]
+dark_blue = '#6099C0' 
+blue      = '#61ABDA' 
+red       = '#DE6E7C' 
+green     = '#819B69' 
+purple    = '#B279A7' 
+cyan      = '#66A5AD' 
+orange    = '#D68C67' 
+yellow    = '#B77E64' 
+gray      = '#888F94' 
+white     = '#B4BDC3'
+black     = '#1C1917'
