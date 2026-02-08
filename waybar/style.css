@@ -14,7 +14,7 @@ window#waybar {
 }
 
 tooltip {
-  background: #141415;
+  background: #1C1917;
   border: 1px solid rgba(100, 114, 125, 0.5);
 }
 tooltip label {
@@ -28,23 +28,23 @@ tooltip label {
 #workspaces button {
     padding: 5px 15px;
 		margin: 0 4px;
-    background: #141415;
-    color: #90D5FF;
+    background: #1C1917;
+    color: #6099C0;
 		border-radius: 50px;
 		font-weight: 700;
 }
 
 #workspaces button.active{
     min-width: 20px;
-		background: #141415;
-		color: #9BB4BC;
+		background: #1C1917;
+		color: #6099C0;
 		border-radius: 50px;
 	  font-weight: 700;
 }
 
 #clock {
-	  background-color: #141415;
-    color: #D8647E;
+	  background-color: #1C1917;
+    color: #DE6E7C;
 		font-weight: 700;
 		padding: 5px 15px;
 		margin: 0 4px;
@@ -52,8 +52,8 @@ tooltip label {
 }
 
 #battery {
-    background-color: #141415;
-    color: #7FA563;
+    background-color: #1C1917;
+    color: #819B69;
 		font-weight: 700;
 		padding: 5px 15px;
 		margin: 0 4px;
@@ -61,8 +61,8 @@ tooltip label {
 }
 
 #pulseaudio {
-    background-color: #141415;
-    color: #E0A363;
+    background-color: #1C1917;
+    color: #B77E64;
 		font-weight: 700;
 		padding: 5px 15px;
 		margin: 0 4px;
@@ -70,8 +70,8 @@ tooltip label {
 }
 
 #network {
-    background-color: #141415;
-    color: #BB9DBD;
+    background-color: #1C1917;
+    color: #B279A7;
 		font-weight: 700;
 		padding: 5px 15px;
 		margin: 0 4px;
@@ -80,21 +80,21 @@ tooltip label {
 
 #tray {
     padding: 5px 15px;
-    background-color: #141415;
+    background-color: #1C1917;
     color: #A89984;
 		border-radius: 50px;
 }
 
 #tray > .passive {
     -gtk-icon-effect: dim;
-    background-color: #141415;
+    background-color: #1C1917;
     color: #A89984;
 		border-radius: 50px;
 }
 
 #tray > .needs-attention {
     -gtk-icon-effect: highlight;
-    background-color: #141415;
+    background-color: #1C1917;
     color: #A89984;
 		border-radius: 50px;
 }
