@@ -19,7 +19,7 @@ $line_break\
 $character"""
 
 add_newline = true
-palette = 'zenbones'
+palette = 'vague'
 
 [directory]
 style = 'bold blue'
@@ -106,19 +106,6 @@ min_time = 500
 style = 'italic fg:yellow'
 format = 'took [$duration]($style)'
 
-[palettes.gruvbox_material]
-black = '#1d2021'
-gray = '#928374'
-white = '#d4be98'
-red = '#ea6962'
-orange = '#e78a4e'
-yellow = '#d8a657'
-green = '#a9b665'
-cyan = '#89b482'
-blue = '#7daea3'
-purple = '#d3869b'
-dark_blue = '#458588'
-
 [palettes.vague]
 dark_blue = '#405065'
 blue      = '#6e94b2'
@@ -131,16 +118,3 @@ yellow    = '#f3be7c'
 gray      = '#606079'
 white     = '#cdcdcd'
 black     = '#141415'
-
-[palettes.zenbones]
-dark_blue = '#6099C0' 
-blue      = '#61ABDA' 
-red       = '#DE6E7C' 
-green     = '#819B69' 
-purple    = '#B279A7' 
-cyan      = '#66A5AD' 
-orange    = '#D68C67' 
-yellow    = '#B77E64' 
-gray      = '#888F94' 
-white     = '#B4BDC3'
-black     = '#1C1917'
