@@ -23,6 +23,5 @@ cursor {
 ### To-Do List
 
 - [ ] Change wofi to rofi-wayland
-- [ ] Change waybar to quickshel
-- [ ] Configure Fastfetch
-- [ ] Change to "Brutalist" aesthetic 
+- [ ] Change waybar to quickshell (maybe)
+- [ ] Change to "Neoclassic" aesthetic 
