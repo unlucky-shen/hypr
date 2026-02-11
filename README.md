@@ -2,7 +2,7 @@
 
 ![Preview](view.png)
 
-My hyprland config, with vague-theme colorscheme
+My hyprland config, with zenbones colorscheme
 
 ### NVIDIA GPU Tweaks 
 
@@ -24,4 +24,4 @@ cursor {
 
 - [ ] Change wofi to rofi-wayland
 - [ ] Change waybar to quickshell (maybe)
-- [ ] Change to "Neoclassic" aesthetic 
+- [x] Change to "Neoclassic" aesthetic 
